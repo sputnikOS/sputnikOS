@@ -4,9 +4,6 @@
   <img src="https://img.shields.io/badge/intel-core%20i7%209th Gen-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
-
-<div class="row">
-<img src="https://github-profile-trophy.vercel.app/?username=sputnikOS&theme=radical&no-frame=true&column=-1"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sputnikOS&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical">
-</div>  
