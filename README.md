@@ -1,4 +1,4 @@
-# sputnikOS.github.io
+# sputnikOS 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sputnikOS&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sputnikOS&theme=radical"/>
