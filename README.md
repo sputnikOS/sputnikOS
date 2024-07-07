@@ -3,7 +3,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sputnikOS&theme=prussian)](https://git.io/streak-stats)
 
-[![An image of @sputnikos's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sputnikos)](https://holopin.io/@sputnikos)
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=sputnikOS)](https://holopin.io/@sputnikOS)
+
 <p align='center'>
 
   <img style="height:50px;width:50px" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png">
