@@ -1,5 +1,12 @@
 
 <h1 align='center'>SputnikOS</h1>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sputnikOS&theme=prussian)](https://git.io/streak-stats)
+
+<a href='https://holopin.io/@sputnikos'>
+    <img src='https://holopin.onrender.com/sputnikos'/>
+</a>
+
 <p align='center'>
 
   <img style="height:50px;width:50px" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png">
@@ -13,9 +20,7 @@
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
   <hr>
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sputnikOS&theme=2077"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sputnikOS&theme=radical&column=-1"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sputnikOS&theme=radical"/>
+
 </p>
 
 [Credly](https://github-readme-widgets.vercel.app/api?username=sabsowitz&theme=dark)
