@@ -20,4 +20,4 @@
 
 </p>
 
-[Credly](https://github-readme-widgets.vercel.app/api?username=sabsowitz&theme=dark)
+
