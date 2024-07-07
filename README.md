@@ -17,3 +17,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sputnikOS&theme=radical&column=-1"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sputnikOS&theme=radical"/>
 </p>
+
+[Credly](https://github-readme-widgets.vercel.app/api?username=sabsowitz&theme=dark)
