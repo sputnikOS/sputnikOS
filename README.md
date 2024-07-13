@@ -11,6 +11,9 @@
 <img style="height:50px;width:50px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
 
 <hr>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sputnikOS)](https://github.com/sputnikOS/github-readme-stats)
+
   <img src="https://img.shields.io/badge/windows 10 Pro-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%209th Gen-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
