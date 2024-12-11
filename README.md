@@ -17,4 +17,4 @@
 
 </p>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=sputnikOS&theme=radical&column=-1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sputnikOS&theme=radical&column=-1&no-frame=true&no-bg=true"/>
