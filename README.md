@@ -1,15 +1,5 @@
 
 <h1 align='center'>SputnikOS</h1>
-<h2 align='center'>Open-Source & Zero-Trust</h2>
-<h3>Cyber & AudiO Engineering</h3>
-
-
-
-<img style="width:300px;height:300px" src="https://private-user-images.githubusercontent.com/8669791/399605929-dc6068a0-3c63-4b1e-8a75-faaa4d7bd97d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU3ODgxMzMsIm5iZiI6MTczNTc4NzgzMywicGF0aCI6Ii84NjY5NzkxLzM5OTYwNTkyOS1kYzYwNjhhMC0zYzYzLTRiMWUtOGE3NS1mYWFhNGQ3YmQ5N2QuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDEwMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAxMDJUMDMxNzEzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NWI3NjRlMWE0YjMyNzEyOWEwMDc0NWIzZjJhNDM2NTIyMjFiYjVmNzExZGM2MDdhMWNkMjg3MWE5YWExM2ViZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ._pFxgOHyVhOAu_srM36HCpdiungSta9SkyHs0eRk0gg">
-<br>
-
-
-
 
 <p align='center'>
 
