@@ -1,6 +1,10 @@
 
 <h1 align='center'>SputnikOS</h1>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sputnikOS&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=sputnikOS&theme=radical&hide_border=true)
+
 <p align='center'>
 
 <img src="https://github-profile-trophy.vercel.app/?username=sputnikOS&theme=radical&column=-1&no-frame=true&no-bg=true"/>
