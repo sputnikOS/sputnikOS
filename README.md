@@ -21,6 +21,7 @@
 
 
 <br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sputnikOS&theme=tokyonight">
 
 ![contributions](https://github-readme-activity-graph.vercel.app/graph?username=sputnikOS&theme=xcode)
 
