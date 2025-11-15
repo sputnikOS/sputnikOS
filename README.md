@@ -1,5 +1,8 @@
 
 <h1 align='center'> SputnikOS</h1>
+<h4 align='center'>“Wars of the Future Will Be Information Wars”</h4>
+ 
+<br/>
 
 <div align='center'>
   <a href="https://www.credly.com/users/sabsowitz"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
