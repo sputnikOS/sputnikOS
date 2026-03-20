@@ -1,6 +1,6 @@
-# Business Services Summary:
+# Cybersec Services
 
-I. Product & Engineering Services
+## I. Product & Engineering Services
 1. Secure Software Development (Custom Applications)
    - Description: Design and build web, cloud,mobile, and embedded applications with security-by-design.
    - Deliverables: Requirements, architecture, secure SDLC plan, codebase, tests, CI/CD pipelines, documentation, maintenance plan.
@@ -25,7 +25,7 @@ I. Product & Engineering Services
    - Customers: Companies seeking government contracts or regulated industries.
    - Pricing model: Engagement fee + success bonus / retainer during audit windows.
 
-II. Cybersecurity Operations & Defensive Services
+## II. Cybersecurity Operations & Defensive Services
 5. Risk & Vulnerability Assessments (Vulnerability Scanning + Penetration Testing)
    - Description: Continuous and on-demand discovery of vulnerabilities across networks, apps, and cloud.
    - Deliverables: Vulnerability reports, prioritized remediation plan, retest validation.
@@ -50,7 +50,7 @@ II. Cybersecurity Operations & Defensive Services
    - Customers: Cloud-first enterprises, Dev teams, government cloud pilots.
    - Pricing model: Project + subscription for policy maintenance.
 
-III. Cyber Intelligence & Analysis
+## III. Cyber Intelligence & Analysis
 9. Strategic & Tactical Cyber Threat Intelligence (CTI)
    - Description: Collection, analysis, and delivery of actionable intelligence on threat actors, TTPs, and indicators.
    - Deliverables: Daily/weekly intelligence briefs, IOC feeds (STIX/TAXII), TTP profiles, threat dashboards.
@@ -82,7 +82,7 @@ IV. Authorized Offensive / Red Team & Active Defense
     - Customers: SOCs, cyber ranges, agencies.
     - Pricing model: Day-rate + per-participant training fees.
 
-V. Forensics, Recovery & Legal Support
+## V. Forensics, Recovery & Legal Support
 14. Digital Forensics & Malware Reverse Engineering
     - Description: Memory/disk forensics, artifact extraction, timeline reconstruction, and reverse engineering of malware.
     - Deliverables: Forensic images (hashed), technical reports suitable for legal processes, RE reports, IOC packages.
@@ -95,7 +95,7 @@ V. Forensics, Recovery & Legal Support
     - Customers: Insured firms, boards, regulated entities.
     - Pricing model: Project fee + hourly consulting.
 
-VI. Advisory, Strategy & Program Services
+## VI. Advisory, Strategy & Program Services
 16. Security Program Design & CISO Advisory
     - Description: Build or mature security programs, governance, policies, and tech roadmaps aligned to business risk.
     - Deliverables: Roadmaps, policy library, KPI dashboards, vendor selection support.
@@ -114,7 +114,8 @@ VI. Advisory, Strategy & Program Services
     - Customers: Government contractors, healthcare, finance.
     - Pricing model: Project + certification success fee.
 
-VII. Training, Exercises & Talent Services
+
+## VII. Training, Exercises & Talent Services
 19. Technical Training & Certifications (Hands-on)
     - Description: Customized courses covering secure coding, red/blue operations, threat intelligence, and forensic fundamentals.
     - Deliverables: Training curriculum, labs, assessments, certification pathways.
@@ -133,7 +134,8 @@ VII. Training, Exercises & Talent Services
     - Customers: Contractors, agencies, enterprises.
     - Pricing model: Placement fee (percentage of annual salary) or contract staffing markup.
 
-VIII. Managed / Productized Offerings (SaaS / Subscription)
+
+## VIII. Managed / Productized Offerings (SaaS / Subscription)
 22. SOC-in-a-Box (MDR Lite)
     - Description: Preconfigured telemetry collection + cloud detection rules + analyst access for SMEs.
     - Deliverables: Agent, dashboard, alerting rules, onboarding playbook.
@@ -152,22 +154,26 @@ VIII. Managed / Productized Offerings (SaaS / Subscription)
     - Customers: Dev teams, ISVs, contractors seeking supply-chain assurance.
     - Pricing model: Monthly usage + per-artifact fee.
 
-IX. Go-to-Market & Positioning Notes
+
+## IX. Go-to-Market & Positioning Notes
 - Target verticals: Defense primes, federal/state agencies, critical infrastructure (energy, telecom), healthcare, finance, and security-conscious SaaS companies.
 - Differentiators: Combine deep software engineering with operational cyber and intelligence tradecraft; offer end-to-end solutions from secure product design through active operations and intelligence support.
 - Certifications & assurances to pursue: FedRAMP (if cloud), CMMC advisory/compliance, SOC 2, ISO 27001, DoD 8570/8140 mapping for staff, relevant vendor partnerships.
 
-X. Pricing & Packaging Guidance (high-level)
+
+## X. Pricing & Packaging Guidance (high-level)
 - Offer three tiers: Advisory/Assessments (project), Implementation (project + milestone), and Managed/Subscribed (OPEX).
 - Use retained-services model for IR and CTI to ensure predictable revenue.
 - Bundle training and purple-team engagements with follow-on remediation packages.
 
-XI. Risk & Legal Considerations
+
+## XI. Risk & Legal Considerations
 - Offensive services require strict legal authorization, contracts with clear Rules of Engagement, and insurance coverage.
 - Ensure export controls, data-sovereignty, and privacy laws are respected; establish Clearances/SCIF arrangements for classified work.
 - Maintain strict OPSEC, artifact provenance, and destroy/return policies for sensitive artifacts.
 
-XII. Suggested Starter Packages (example quick offerings)
+
+##  XII. Suggested Starter Packages (example quick offerings)
 - "Starter Secure Build" — secure CI/CD + SBOM + 3 months support.
 - "Blue Team Launchpad" — 30-day SOC deployment + 90-day MDR trial.
 - "Red Team Baseline" — 1-week adversary emulation + remediation roadmap.
