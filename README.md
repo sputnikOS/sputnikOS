@@ -10,6 +10,8 @@
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
+## Zero-Trust & Open-Source
+
   
 
   ### `>> Platform Capabilities <<`
@@ -25,11 +27,7 @@
   ```
   ┌──────────────────────────────────────────────────────────────────┐
   │                                                                  │
-  │  $ echo "Thanks for stopping by."                                │
-  │  $ echo "The only secure system is one that's powered off."      │
   │                                                                  │
-  │  [SESSION TERMINATED]                                            │
-  │  [LOGGING OFF...]                                                │
   │                                                                  │
   └──────────────────────────────────────────────────────────────────┘
   ```
