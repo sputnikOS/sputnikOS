@@ -1,36 +1,38 @@
-# SputnikOS
 
-## Project Description
-SputnikOS is an innovative operating system designed to provide users with a powerful yet user-friendly experience. Its architecture is built for speed and efficiency, making it suitable for both development and daily use.
+<div align="center"
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Introduction
-This section introduces the core principles guiding the development of SputnikOS.
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+SputikOS+%3A%3A+Security;%3E+Intelligence+%3A%3A+Cyberwarfare;%3E+NixOS+Enthusiast+%3A%3A+HTB+Grinder)](https://github.com/sputnikOS)
 
-## Features
-- Fast performance and minimal resource usage
-- User-friendly interface
-- Support for various hardware and software configurations
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│           "All Future Wars Will Be Wars of Information"                  │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
-## Installation
-Instructions for installing SputnikOS on your machine.
+  
 
-## Usage
-Guide on how to effectively use SputnikOS.
-
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-Details about the licensing of SputnikOS.
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-yellowgreen)
+  ### `>> Platform Capabilities <<`
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,apple,raspberrypi,linux,kali&theme=dark" alt="Skill Icons"/>
+  </a>
+  
+  <br/><br/>
+  
+  <div align="center">
+  
+  ```
+  ┌──────────────────────────────────────────────────────────────────┐
+  │                                                                  │
+  │  $ echo "Thanks for stopping by."                                │
+  │  $ echo "The only secure system is one that's powered off."      │
+  │                                                                  │
+  │  [SESSION TERMINATED]                                            │
+  │  [LOGGING OFF...]                                                │
+  │                                                                  │
+  └──────────────────────────────────────────────────────────────────┘
+  ```
+  
+  </div>
+</div>
