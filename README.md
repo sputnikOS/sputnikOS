@@ -19,6 +19,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,apple,raspberrypi,linux,kali&theme=dark" alt="Skill Icons"/>
   </a>
+
+  <a href="https://github.com/sputnikOS/sputnikOS/blob/main/Services.md">Services</a>
   
   <br/><br/>
   
