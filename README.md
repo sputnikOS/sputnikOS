@@ -10,46 +10,23 @@
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-
-  
-
-  ### `>> Platform Capabilities <<`
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,redhat,raspberrypi,linux,kali&theme=dark" alt="Skill Icons"/>
-  </a>
-  <a href="https://wwww.github.com/sputnikOS/Services.md">
-
-  <a href="https://github.com/sputnikOS/sputnikOS/blob/main/Services.md">Services</a>
-  
-  <br/><br/>
-
 <div align="center">
-
-## `$ ls ~/projects/`
-
-<table>
-  <tr>
-    <td>
-      <a href="[https://github.com/Daemon-AT4/IceBreaker](https://github.com/sputnikOS/cyber-citizen)">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sputnikOS&repo=cyber-citizen&bg_color=0d1117&text_color=c9d1d9&icon_color=00ff41&title_color=00d9ff&border_color=30363d" alt="IceBreaker" width="400"/>
-      </a>
-    </td>
-    
-  </tr>
-</table>
-
-</div>
   
-  <div align="center">
-  
-  ```
-  ┌──────────────────────────────────────────────────────────────────┐
-  │                                                                  │
-  │                                                                  │
-  │                                                                  │
-  └──────────────────────────────────────────────────────────────────┘
-  ```
-  
-  </div>
-</div>
+  ### `>> Toolkit  <<`
+
+#### Windows Machine
+
+<a href="https://www.vmware.com/products/workstation-player/"><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"></a>
+<a href="https://www.virtualbox.org/wiki/Downloads"><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a>
+
+#### VM Images
+<a href="https://kali.org"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
+<a href="https://blackarch.org/downloads.html"><img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+
+#### Internet of Things (IoT) & Software Engineering
+<a href="https://www.debian.org/download"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+<a href="https://ubuntu.com/download"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<a href="https://archlinux.org/download/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+
+https://github.com/rapid7/metasploitable3
+
