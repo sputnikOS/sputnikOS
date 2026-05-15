@@ -12,7 +12,8 @@
 
 <div align="center">
   
-  ### `>> Toolkit  <<`
+  ### `>> Cyber Without Borders <<`
+  #### repository for open-source project whose mission statement is to provide a self-learning path for _Cyberoperators_
 
 #### Windows Machine
 
