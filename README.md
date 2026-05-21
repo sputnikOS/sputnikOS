@@ -10,10 +10,13 @@
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
+
 <div align="center">
   
-  ### `>> Cyber Without Borders <<`
-  #### repository for open-source project whose mission statement is to provide a self-learning path for _Cyberoperators_
+  ### `>> Cyber-Citizens Without Borders <<`
+  #### mission: to bridge security, intelligence & engineering into the discipline of _Cyberoperations_
+
+
 
 #### Windows Machine
 
