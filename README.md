@@ -17,47 +17,56 @@
   #### mission: to bridge security, intelligence & engineering into the discipline of _Cyberoperations_
 
 
+<div align="center">
 
-#### Windows Machine
+  ## 🛠️ Cyber Operator's Toolkit
 
-<a href="https://www.vmware.com/products/workstation-player/"><img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"></a>
-<a href="https://www.virtualbox.org/wiki/Downloads"><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a>
+  ### 💻 Host Environment (Windows Machine)
+  <a href="https://www.vmware.com/products/workstation-player/">
+    <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware">
+  </a>
+  <a href="https://www.virtualbox.org/wiki/Downloads">
+    <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox">
+  </a>
 
-#### VM Images
-<a href="https://kali.org"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
-<a href="https://blackarch.org/downloads.html"><img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+  ### 🖥️ Virtual Machine Images
+  <a href="https://kali.org">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+  </a>
+  <a href="https://blackarch.org/downloads.html">
+    <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=white" alt="BlackArch">
+  </a>
 
-#### Internet of Things (IoT) & Software Engineering
+  ### 🐧 Core Operating Systems
+  <a href="https://www.debian.org/download">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
+  </a>
+  <a href="https://ubuntu.com/download">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  </a>
+  <a href="https://archlinux.org/download/">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
+  </a>
 
+  ---
 
+  ## 🚀 Offensive & Defensive Arsenal
 
-## Toolkit
-<a href="https://www.debian.org/download"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
-<a href="https://ubuntu.com/download"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-<a href="https://archlinux.org/download/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+  <details>
+  <summary><strong>Click to expand toolkit list</strong></summary>
+  <br>
 
-https://github.com/rapid7/metasploitable3
+  | Category | Tools |
+  | :--- | :--- |
+  | **Exploitation** | [Metasploit](https://github.com/rapid7/metasploit-framework), [Metasploitable3](https://github.com/rapid7/metasploitable3), [Empire](https://github.com/EmpireProject/Empire), [Powersploit](https://github.com/PowerShellMafia/PowerSploit), [Nishang](https://github.com/samratashok/nishang) |
+  | **Reconnaissance** | [Nmap](https://nmap.org), [Netdiscover](https://www.kali.org/tools/netdiscover/), [Masscan](https://github.com/robertdavidgraham/masscan), [Recon-ng](https://github.com/lanmaster53/recon-ng), [F-Society Toolkit](https://github.com/Manisso/fsociety) |
+  | **Post-Exploitation** | [Mimikatz](https://github.com/ParrotSec/mimikatz), [Responder](https://github.com/SpiderLabs/Responder), [Veil Framework](https://github.com/Veil-Framework) |
+  | **Network Analysis** | [Wireshark](https://www.wireshark.org/download.html), [Proxychains](https://github.com/haad/proxychains), [Burp Suite](https://portswigger.net/burp) |
+  | **Web & Social Eng.** | [BeEF](https://github.com/beefproject/beef), [Social Engineer's Toolkit](https://github.com/trustedsec/social-engineer-toolkit) |
+  | **Cracking** | [Hashcat](https://hashcat.net/hashcat/), [John the Ripper](https://github.com/openwall/john), [Aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) |
 
-- [Metasploit](https://github.com/rapid7/metasploit-framework)
-- [Metasploitable](https://github.com/rapid7/metasploitable3)
-- [Nmap](https://nmap.org)
-- [Netdiscover](https://www.kali.org/tools/netdiscover/)
-- [F-Society Toolkit](https://github.com/Manisso/fsociety)
-- [Masscan](https://github.com/robertdavidgraham/masscan)
-- [Recon-ng](https://github.com/lanmaster53/recon-ng)
-- [Social Engineer's Toolkit](https://github.com/trustedsec/social-engineer-toolkit)
-- [Mimikatz](https://github.com/ParrotSec/mimikatz)
-- [Aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
-- [Burp](https://portswigger.net/burp)
-- [Proxychains](https://github.com/haad/proxychains)
-- [Veil Framework](https://github.com/Veil-Framework)
-- [Powershell Empire](https://github.com/EmpireProject/Empire)
-- [Wireshark](https://www.wireshark.org/download.html)
-- [Responder](https://github.com/SpiderLabs/Responder)
-- [Beef](https://github.com/beefproject/beef)
-- [Hashcat](https://hashcat.net/hashcat/)
-- [Mimikatz](https://github.com/ParrotSec/mimikatz)
-- [Powersploit](https://github.com/PowerShellMafia/PowerSploit)
-- [Nishang](https://github.com/samratashok/nishang)
-- [John the Ripper](https://github.com/openwall/john)
+  </details>
+
+  
+</div>
 
