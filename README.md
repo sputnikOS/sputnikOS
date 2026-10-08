@@ -19,6 +19,10 @@
 
 <div align="center">
 
+
+  ## Research, Journal Articles & Technical Whitepapers
+<a href="https://github.com/sputnikOS/sputnikOS/blob/main/Master's%20Thesis%20on%20Cyberware.md">Cyberoperations: Fifth Generation Warfare and the Future of Cyber</a>
+  
   ## 🛠️ Cyber Operator's Toolkit
 
   ### 💻 Host Environment (Windows Machine)
