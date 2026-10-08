@@ -14,7 +14,7 @@
 <div align="center">
   
   ### `>> Cyber-Citizens Without Borders <<`
-  #### mission: to bridge security, intelligence & engineering into the discipline of _Cyberoperations_
+  #### mission: to educate and train "cyber-citizens" through open-source resources. 
 
 
 <div align="center">
