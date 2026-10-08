@@ -4,6 +4,10 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+SputikOS;%3E+Zero-Trust+%3A%3A+Open-Source;%3E+NixOS+Enthusiast+%3A%3A+HTB+Grinder)](https://github.com/sputnikOS)
 
+
+  ### `>> Cyber-Citizens Without Borders <<`
+  #### `mission: to educate and train "cyber-citizens" through open-source resources.` 
+
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │           "All Future Wars Will Be Wars of Information"                  │
@@ -11,19 +15,15 @@
 ```
 
 
-<div align="center">
+
+
   
-  ### `>> Cyber-Citizens Without Borders <<`
-  #### mission: to educate and train "cyber-citizens" through open-source resources. 
-
-
-<div align="center">
-
-
-  ## Research, Journal Articles & Technical Whitepapers
-<a href="https://github.com/sputnikOS/sputnikOS/blob/main/Master's%20Thesis%20on%20Cyberware.md">Cyberoperations: Fifth Generation Warfare and the Future of Cyber</a>
   
-  ## 🛠️ Cyber Operator's Toolkit
+  ## 🚀 Building your Virtual Machine
+
+  <details>
+  <summary><strong>Click to expand toolkit list</strong></summary>
+  <br>
 
   ### 💻 Host Environment (Windows Machine)
   <a href="https://www.vmware.com/products/workstation-player/">
@@ -51,15 +51,7 @@
   <a href="https://archlinux.org/download/">
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
   </a>
-
-  ---
-
-  ## 🚀 Offensive & Defensive Arsenal
-
-  <details>
-  <summary><strong>Click to expand toolkit list</strong></summary>
-  <br>
-
+  
   | Category | Tools |
   | :--- | :--- |
   | **Exploitation** | [Metasploit](https://github.com/rapid7/metasploit-framework), [Metasploitable3](https://github.com/rapid7/metasploitable3), [Empire](https://github.com/EmpireProject/Empire), [Powersploit](https://github.com/PowerShellMafia/PowerSploit), [Nishang](https://github.com/samratashok/nishang) |
