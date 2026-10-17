@@ -2,10 +2,10 @@
 <div align="center"
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+SputikOS;%3E+Zero-Trust+%3A%3A+Open-Source;%3E+NixOS+Enthusiast+%3A%3A+HTB+Grinder)](https://github.com/sputnikOS)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+SputikOS;%3E+Zero-Trust+%3A%3A+Open-Source;)](https://github.com/sputnikOS)
 
 
-  ### `>> Cyber Without Borders <<`
+  ### `>> Cyber-Citizens Without Borders <<`
   #### `mission: to educate and train "cyber-citizens" through open-source resources.` 
 
 ```
@@ -14,11 +14,7 @@
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+Services;)](https://github.com/sputnikOS)
 
-
-  
-  
   ## 🚀 Building your Virtual Machine
 
   <details>
@@ -59,7 +55,8 @@
   | **Post-Exploitation** | [Mimikatz](https://github.com/ParrotSec/mimikatz), [Responder](https://github.com/SpiderLabs/Responder), [Veil Framework](https://github.com/Veil-Framework) |
   | **Network Analysis** | [Wireshark](https://www.wireshark.org/download.html), [Proxychains](https://github.com/haad/proxychains), [Burp Suite](https://portswigger.net/burp) |
   | **Web & Social Eng.** | [BeEF](https://github.com/beefproject/beef), [Social Engineer's Toolkit](https://github.com/trustedsec/social-engineer-toolkit) |
-  | **Cracking** | [Hashcat](https://hashcat.net/hashcat/), [John the Ripper](https://github.com/openwall/john), [Aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) |
+  | **Exploits** | [VulnHub](https://www.vulnhub.com/),  [ExploitDB](https://www.exploit-db.com/) |
+  
 
   </details>
 
