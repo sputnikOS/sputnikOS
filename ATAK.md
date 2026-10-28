@@ -9,7 +9,7 @@
 
 ![CivTAK in Emergency Response - Agile Vehicle Technologies](https://images.openai.com/static-rsc-4/o8jiVFqNHWmFbgcUUjY2wO1Dahb33YMU6xl4EGnODwW9yGF7FKNaGvNPjQfhloJZOcSnBW1lhaVVPrZ8Y0OJyaTZYx36miSiTexJAvs1nsFqdKBzF3onWRYCJ1VzuWBwhJ9tAm8nJB77OTbsHFPmpPGc38mDtAKIfLidBvDb6QE?purpose=inline)
 
-16
+[ATAK Resources](https://github.com/FreeTAKTeam/openTAKpickList)
 
 ATAK (Android Team Awareness Kit) is a geospatial situational-awareness application that combines digital mapping, location tracking, team coordination, geographic intelligence, and interoperable data sharing into a mobile operational interface.
 
