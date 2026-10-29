@@ -13,7 +13,7 @@
 │           "All Future Wars Will Be Wars of Information"                  │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
-  ## Learning 
+  ## Learning Path
   [Offensive Network Security](https://www.cs.fsu.edu/~liux/courses/offensivenetsec/index.html)
 
   ## 🚀 Building your Virtual Machine
