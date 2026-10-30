@@ -4,7 +4,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+SputikOS;%3E+Zero-Trust+%3A%3A+Open-Source;)](https://github.com/sputnikOS)
 
-  # `>> “All Future Wars Will Be Wars of Information" <<` 
+  # `>> “Future Warfare Will Be Fought Using Information" <<` 
 
 
   #### Learning Path
