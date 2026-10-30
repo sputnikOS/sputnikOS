@@ -7,6 +7,13 @@
   # `>> “Future Warfare Will Be Fought Using Information" <<` 
 
 
+## Cyber-Citizens Without Borders
+### mission: to a
+#### Resources
+[Python Coding](https://github.com/vinta/awesome-python?tab=readme-ov-file#distributed-computing)
+[Kali Linux](https://github.com/0xsyr0/OSCP)
+[Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+
   #### Learning Path
   [Offensive Network Security](https://www.cs.fsu.edu/~liux/courses/offensivenetsec/index.html)
 [SANS Blue Team Wiki GitHub](https://github.com/sans-blue-team/blue-team-wiki/)
