@@ -9,8 +9,10 @@
  `>> “Privacy is a right. Security is a responsibility. Knowledge is our greatest defense. Open source is our foundation." <<` 
 
 #### Resources
-[Python Coding](https://github.com/vinta/awesome-python?tab=readme-ov-file#distributed-computing)
+[Python](https://github.com/vinta/awesome-python?tab=readme-ov-file#distributed-computing)
+
 [Kali Linux](https://github.com/0xsyr0/OSCP)
+
 [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
   #### Learning Path
