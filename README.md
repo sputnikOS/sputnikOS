@@ -5,6 +5,10 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+SputikOS;%3E+Zero-Trust+%3A%3A+Open-Source;)](https://github.com/sputnikOS)
 
 
+<a href="https://github.com/sputnikOS/sputnikOS/blob/main/Mission%20Statement.md">
+  <img src="https://img.shields.io/badge/Mission_Statement-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Knowledge Without Borders"/>
+</a>
+
 #### Open-Source Citizen
  `>> “Privacy is a right. Security is a responsibility. Knowledge is our greatest defense. Open source is our foundation." <<` 
 
