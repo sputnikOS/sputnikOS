@@ -10,11 +10,18 @@
   <img src="https://img.shields.io/badge/Mission_Statement-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Knowledge Without Borders"/>
 </a>
 
-## Foundation
-https://attack.mitre.org/
-https://attack.mitre.org/resources/learn-more-about-attack/training/
+## Cybersecurity Learning Path
+### 
+[MITRE Framework](https://attack.mitre.org/)
+[MITRE Training](https://attack.mitre.org/resources/learn-more-about-attack/training/)
 
-## Tools & Resources
+[OSINT Framework](https://osintframework.com/)
+
+[Red Hat Linux Security Guide](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/security_guide/index)
+
+[SANS Blue Team Wiki](https://github.com/sans-blue-team/blue-team-wiki/)
+
+## TOOLS
 ### Radio & Satellite
 [GNU Radio](https://wiki.gnuradio.org/)
 
@@ -22,24 +29,24 @@ https://attack.mitre.org/resources/learn-more-about-attack/training/
 
 [WebSDR](http://websdr.org/)
 
-#### Repository of Knowledge
+[ArcGis](https://www.arcGis.com)
+
+#### Resources
 [Python](https://github.com/vinta/awesome-python?tab=readme-ov-file#distributed-computing)
 
 [Kali Linux](https://github.com/0xsyr0/OSCP)
 
 [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
-  #### Learning Path
-  [Offensive Network Security](https://www.cs.fsu.edu/~liux/courses/offensivenetsec/index.html)
-[SANS Blue Team Wiki GitHub](https://github.com/sans-blue-team/blue-team-wiki/)
 
-  ## 🚀 Building your Virtual Machine
+
+  ## 🚀 Penetration Testing Toolkit
 
   <details>
   <summary><strong>Click to expand toolkit list</strong></summary>
   <br>
 
-  ### 💻 Host Environment (Windows Machine)
+  ### 💻 Install VMWare/Virtualbox on your windows machine. Alternatively, you can use WSL.
   <a href="https://www.vmware.com/products/workstation-player/">
     <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware">
   </a>
@@ -47,7 +54,7 @@ https://attack.mitre.org/resources/learn-more-about-attack/training/
     <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox">
   </a>
 
-  ### 🖥️ Virtual Machine Images
+  ### 🖥️ Virtual Machines
   <a href="https://kali.org">
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
   </a>
