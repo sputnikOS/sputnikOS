@@ -1,184 +1,345 @@
-# Cyberengineering Services
 
-## I. Product & Engineering Services
-1. Secure Software Development (Custom Applications)
-   - Description: Design and build web, cloud,mobile, and embedded applications with security-by-design.
-   - Deliverables: Requirements, architecture, secure SDLC plan, codebase, tests, CI/CD pipelines, documentation, maintenance plan.
-   - Customers: Defense primes, critical infrastructure, startups with high-security needs.
-   - Pricing model: Fixed-bid for product phases + hourly support / monthly retainer for maintenance.
+# Technical Capabilities & Services
 
-2. DevSecOps & Secure CI/CD Pipeline Engineering
-   - Description: Implement end-to-end secure build pipelines, automated testing (SAST/DAST), signing and artifact provenance.
-   - Deliverables: Hardened CI/CD templates, automated security gates, reproducible builds, artifact registry, pipeline runbooks.
-   - Customers: Enterprises, software vendors, government contractors.
-   - Pricing model: Project fee + per-repository onboarding fee.
+## I. Cybersecurity Assessment & Penetration Testing
 
-3. Embedded & IoT Security Engineering
-   - Description: Secure firmware, supply-chain hardening, secure boot, over-the-air update design, hardware attestation.
-   - Deliverables: Threat model, secure firmware architecture, CI for firmware, hardware root-of-trust integration.
-   - Customers: OEMs, defense integrators, industrial vendors.
-   - Pricing model: Milestone based + sustained support for OTA ecosystems.
+1. Network Vulnerability Assessment & Penetration Testing
 
-4. Secure Productization & Compliance Engineering
-   - Description: Prepare software/hardware products for certification (FIPS, Common Criteria, FedRAMP, CMMC).
-   - Deliverables: Gap analysis, remediation roadmap, test artifacts, documentation for audits.
-   - Customers: Companies seeking government contracts or regulated industries.
-   - Pricing model: Engagement fee + success bonus / retainer during audit windows.
+- Description: Authorized internal and external network assessments to identify vulnerabilities, misconfigurations, exposed services, weak access controls, and exploitable attack paths.
+    
+- Deliverables: Network inventory, vulnerability assessment, validated findings, risk ratings, remediation roadmap, retest report.
+    
+- Customers: SMBs, enterprise IT departments, technology companies, professional services firms.
+    
+- Pricing model: Fixed-fee assessment, network-size-based pricing, or recurring vulnerability assessment subscription.
+    
 
-## II. Cybersecurity Operations & Defensive Services
-5. Risk & Vulnerability Assessments (Vulnerability Scanning + Penetration Testing)
-   - Description: Continuous and on-demand discovery of vulnerabilities across networks, apps, and cloud.
-   - Deliverables: Vulnerability reports, prioritized remediation plan, retest validation.
-   - Customers: SMBs to enterprise, federal/state agencies.
-   - Pricing model: Per-scan/subscription + fixed fee per pentest.
+2. Web Application & API Penetration Testing
 
-6. Threat Hunting & Incident Response (IR)
-   - Description: Proactive hunts for adversary activity, plus rapid containment, investigation, and remediation of incidents.
-   - Deliverables: IR playbook, forensic artifacts, remediation actions, final report, tabletop AAR.
-   - Customers: Organizations with critical assets and regulatory requirements.
-   - Pricing model: IR-on-demand (hourly/day rate) + incident retainer (monthly/annual).
+- Description: Security testing of web applications, REST APIs, GraphQL services, authentication systems, and backend infrastructure using OWASP methodologies.
+    
+- Deliverables: Application security report, vulnerability evidence, API testing results, remediation guidance, retest validation.
+    
+- Customers: SaaS providers, startups, software vendors, e-commerce companies.
+    
+- Pricing model: Fixed-fee engagement based on application complexity and scope.
+    
 
-7. Managed Detection & Response (MDR) / SOC Services
-   - Description: 24/7 alert triage, threat correlation, endpoint telemetry ingestion, and response orchestration.
-   - Deliverables: SOC portal access, alerts, monthly intelligence reports, remediation ticketing.
-   - Customers: Mid-market and enterprise lacking in-house SOC.
-   - Pricing model: Per-endpoint/per-gigabyte + tiered service levels.
+3. Wireless & Network Infrastructure Security
 
-8. Cloud Security & Architecture Hardening
-   - Description: Secure cloud migrations, IaC reviews, identity & access hardening, cloud-native detection.
-   - Deliverables: Secure cloud reference architecture, IaC templates, runtime policies, cloud monitoring setup.
-   - Customers: Cloud-first enterprises, Dev teams, government cloud pilots.
-   - Pricing model: Project + subscription for policy maintenance.
+- Description: Assessment of wireless networks, routers, access points, firewalls, VPNs, network segmentation, and remote access infrastructure.
+    
+- Deliverables: Wireless security assessment, network configuration review, exposure analysis, segmentation recommendations.
+    
+- Customers: Small businesses, offices, industrial environments, distributed organizations.
+    
+- Pricing model: Project-based assessment or infrastructure security retainer.
+    
 
-## III. Cyber Intelligence & Analysis
-9. Strategic & Tactical Cyber Threat Intelligence (CTI)
-   - Description: Collection, analysis, and delivery of actionable intelligence on threat actors, TTPs, and indicators.
-   - Deliverables: Daily/weekly intelligence briefs, IOC feeds (STIX/TAXII), TTP profiles, threat dashboards.
-   - Customers: SOCs, IR teams, corporate security, government units.
-   - Pricing model: Subscription (monthly/annual) with tiered data access.
+4. Cloud & Infrastructure Security Assessment
 
-10. OSINT & Target Development
-    - Description: Open-source collection and profile development for targets, digital footprint mapping, and link analysis.
-    - Deliverables: Target dossiers, link graphs, attribution probability assessments, operational recommendations.
-    - Customers: Law enforcement, intel teams, corporate security investigators.
-    - Pricing model: Per-report or retainer for ongoing support.
+- Description: Evaluate cloud infrastructure, Linux and Windows servers, container environments, identity configurations, and infrastructure-as-code for security weaknesses.
+    
+- Deliverables: Cloud security assessment, infrastructure findings, configuration audit, remediation plan, hardened architecture recommendations.
+    
+- Customers: Cloud-native businesses, technology startups, enterprise IT teams.
+    
+- Pricing model: Fixed project fee or recurring infrastructure assessment.
+    
 
-11. Signals/Network Intelligence Support (Unclassified/Legal)
-    - Description: Network traffic analysis, telemetry correlation, and technical indicators generation for operational use.
-    - Deliverables: Packets/flow analysis reports, detection rules, custom parsers, sensor deployment guidance.
-    - Customers: CERTs, SOCs, cyber teams.
-    - Pricing model: Project + custom tooling licensing.
+5. Active Directory & Identity Security Assessment
 
-IV. Authorized Offensive / Red Team & Active Defense
-12. Red Team (Full-Scope Adversary Emulation)
-    - Description: Controlled adversary emulation engagements that test detection and response across people/process/tech.
-    - Deliverables: Executive summary, technical findings, weaponized engagement logs (sanitized), mitigation roadmap.
-    - Customers: Enterprises & government with legal authority to run tests.
-    - Pricing model: Fixed price per engagement complexity + post-engagement remediation support.
+- Description: Evaluate identity infrastructure, authentication, privilege management, directory services, access controls, and organizational attack surfaces.
+    
+- Deliverables: Identity security assessment, privilege exposure analysis, configuration findings, remediation roadmap.
+    
+- Customers: Organizations operating Microsoft Active Directory and hybrid identity environments.
+    
+- Pricing model: Fixed-fee assessment based on directory size and complexity.
+    
 
-13. Purple Teaming & Exercise Facilitation
-    - Description: Collaborative exercises that tune detection coverage by pairing red & blue teams.
-    - Deliverables: Scenario design, live exercise facilitation, metrics & playbook improvements.
-    - Customers: SOCs, cyber ranges, agencies.
-    - Pricing model: Day-rate + per-participant training fees.
+## II. Red Team, Blue Team & Purple Team Engineering
 
-## V. Forensics, Recovery & Legal Support
-14. Digital Forensics & Malware Reverse Engineering
-    - Description: Memory/disk forensics, artifact extraction, timeline reconstruction, and reverse engineering of malware.
-    - Deliverables: Forensic images (hashed), technical reports suitable for legal processes, RE reports, IOC packages.
-    - Customers: Legal firms, law enforcement, incident response teams.
-    - Pricing model: Hourly for triage; fixed pricing for full forensic reports.
+6. Red Team Operations & Adversary Emulation
 
-15. Cyber Claims & Regulatory Response Support
-    - Description: Evidence preservation and communication support for insurance claims, regulator notifications, and audits.
-    - Deliverables: Incident timeline, compliance gap remediation, regulator-ready reports.
-    - Customers: Insured firms, boards, regulated entities.
-    - Pricing model: Project fee + hourly consulting.
+- Description: Conduct authorized adversary simulations to evaluate organizational security controls, identify attack paths, and assess resilience against realistic threat behaviors.
+    
+- Deliverables: Rules of engagement, engagement plan, technical findings, attack-path documentation, executive report, remediation recommendations.
+    
+- Customers: Security-conscious businesses, enterprise IT organizations, technology companies.
+    
+- Pricing model: Fixed-fee engagement based on scope, duration, and complexity.
+    
 
-## VI. Advisory, Strategy & Program Services
-16. Security Program Design & CISO Advisory
-    - Description: Build or mature security programs, governance, policies, and tech roadmaps aligned to business risk.
-    - Deliverables: Roadmaps, policy library, KPI dashboards, vendor selection support.
-    - Customers: Growing enterprises, gov agencies, startups seeking scale.
-    - Pricing model: Monthly retainer or milestone billing.
+7. Blue Team Security Engineering
 
-17. Supply-Chain & Third-Party Risk Management
-    - Description: Assess vendor risks, run secure procurement processes, and architect attestation/SCM controls.
-    - Deliverables: Vendor risk scores, remediation plans, procurement checklists, SBOM guidance.
-    - Customers: Enterprises with large vendor ecosystems, defense contractors.
-    - Pricing model: Per-vendor assessment + program retainer.
+- Description: Design, implement, and improve defensive security infrastructure, including endpoint monitoring, network detection, centralized logging, and security event analysis.
+    
+- Deliverables: Security architecture, deployed monitoring infrastructure, detection configurations, operational documentation, incident response procedures.
+    
+- Customers: SMBs, organizations without internal security engineering teams, technology companies.
+    
+- Pricing model: Implementation project plus monthly maintenance.
+    
 
-18. Legal & Compliance Integration (NIST, CMMC, HIPAA, GDPR)
-    - Description: Map controls, implement required technical and policy controls, and prepare organizations for audits.
-    - Deliverables: Gap analysis, control implementation, audit artifacts, certification support.
-    - Customers: Government contractors, healthcare, finance.
-    - Pricing model: Project + certification success fee.
+8. Purple Team Exercises & Detection Engineering
 
+- Description: Coordinate offensive security simulations with defensive monitoring teams to validate detection capabilities and improve security controls using MITRE ATT&CK.
+    
+- Deliverables: Exercise scenarios, ATT&CK mappings, detection coverage analysis, Sigma/YARA rules where appropriate, improvement report.
+    
+- Customers: SOC teams, enterprise security departments, managed IT providers.
+    
+- Pricing model: Per-exercise engagement or recurring quarterly assessment.
+    
 
-## VII. Training, Exercises & Talent Services
-19. Technical Training & Certifications (Hands-on)
-    - Description: Customized courses covering secure coding, red/blue operations, threat intelligence, and forensic fundamentals.
-    - Deliverables: Training curriculum, labs, assessments, certification pathways.
-    - Customers: Corporate teams, military units, government agencies.
-    - Pricing model: Per-participant or cohort flat fee.
+9. Security Monitoring & SIEM Engineering
 
-20. Tabletop & Full-Scale Cyber War Games
-    - Description: Scenario-based exercises that incorporate cyber, kinetic, and intelligence axes for decision makers.
-    - Deliverables: Scenario documents, AAR, decision-support templates.
-    - Customers: Defense organizations, national gov, large enterprises.
-    - Pricing model: Fixed engagement + travel/day rates.
+- Description: Deploy and configure open-source security monitoring platforms, centralized logging, alerting, event correlation, and endpoint telemetry.
+    
+- Deliverables: SIEM deployment, Wazuh configuration, log ingestion pipelines, detection rules, monitoring dashboards, operational runbooks.
+    
+- Customers: SMBs, professional services, small enterprises, organizations seeking alternatives to expensive proprietary SIEM products.
+    
+- Pricing model: Deployment fee plus recurring support or managed monitoring.
+    
 
-21. Staffing & Security Talent Placement
-    - Description: Contract placement for cleared engineers, SOC analysts, and intel analysts (optional, partnership model).
-    - Deliverables: Candidate shortlists, vetting reports, onboarding support.
-    - Customers: Contractors, agencies, enterprises.
-    - Pricing model: Placement fee (percentage of annual salary) or contract staffing markup.
+10. Threat Hunting & Incident Response Engineering
 
+- Description: Conduct authorized investigations of suspicious activity, analyze endpoint and network telemetry, identify indicators of compromise, and support containment and recovery.
+    
+- Deliverables: Investigation report, event timeline, forensic findings, indicators of compromise, remediation plan, incident response documentation.
+    
+- Customers: Businesses experiencing security incidents, IT departments, managed service providers.
+    
+- Pricing model: Hourly incident response, fixed-fee investigations, or incident readiness retainer.
+    
 
-## VIII. Managed / Productized Offerings (SaaS / Subscription)
-22. SOC-in-a-Box (MDR Lite)
-    - Description: Preconfigured telemetry collection + cloud detection rules + analyst access for SMEs.
-    - Deliverables: Agent, dashboard, alerting rules, onboarding playbook.
-    - Customers: SMB, regional critical infrastructure.
-    - Pricing model: Monthly per-endpoint subscription.
+## III. Secure Software Engineering & DevSecOps
 
-23. Threat Intel Feed & Portal
-    - Description: Curated IOC/TTP feeds with actionable playbooks and an analyst portal.
-    - Deliverables: API access to feeds (STIX/TAXII), dashboard, weekly briefs.
-    - Customers: SOCs, MSSPs, IR firms.
-    - Pricing model: Tiered subscription.
+11. Custom Secure Software Development
 
-24. Secure Build & Artifact Registry (Hosted)
-    - Description: Offer hosted reproducible build service, signed artifacts, SBOM generation and storage.
-    - Deliverables: Hosted registry, signing service, audit logs, integration with client CI.
-    - Customers: Dev teams, ISVs, contractors seeking supply-chain assurance.
-    - Pricing model: Monthly usage + per-artifact fee.
+- Description: Design and develop secure web applications, backend services, APIs, internal business platforms, and custom software using security-by-design principles.
+    
+- Deliverables: Requirements, architecture, source code, test suites, documentation, deployment pipeline, maintenance plan.
+    
+- Customers: Startups, small businesses, enterprise technology teams, specialized software vendors.
+    
+- Pricing model: Fixed-bid development milestones or hourly engineering.
+    
 
+12. Full-Stack Web Application Development
 
-## IX. Go-to-Market & Positioning Notes
-- Target verticals: Defense primes, federal/state agencies, critical infrastructure (energy, telecom), healthcare, finance, and security-conscious SaaS companies.
-- Differentiators: Combine deep software engineering with operational cyber and intelligence tradecraft; offer end-to-end solutions from secure product design through active operations and intelligence support.
-- Certifications & assurances to pursue: FedRAMP (if cloud), CMMC advisory/compliance, SOC 2, ISO 27001, DoD 8570/8140 mapping for staff, relevant vendor partnerships.
+- Description: End-to-end development of responsive web applications, frontend interfaces, backend systems, databases, authentication, and third-party integrations.
+    
+- Deliverables: Production-ready web application, source code, API documentation, database schema, deployment configuration.
+    
+- Customers: Startups, small businesses, organizations requiring custom internal applications.
+    
+- Pricing model: Project-based development and ongoing maintenance contracts.
+    
 
+13. API & Backend Systems Engineering
 
-## X. Pricing & Packaging Guidance (high-level)
-- Offer three tiers: Advisory/Assessments (project), Implementation (project + milestone), and Managed/Subscribed (OPEX).
-- Use retained-services model for IR and CTI to ensure predictable revenue.
-- Bundle training and purple-team engagements with follow-on remediation packages.
+- Description: Design and implement REST APIs, GraphQL services, backend applications, microservices, distributed systems, and database-driven applications.
+    
+- Deliverables: API architecture, backend services, database implementation, authentication integration, automated testing, technical documentation.
+    
+- Customers: SaaS businesses, software vendors, enterprise development teams.
+    
+- Pricing model: Project-based or milestone-based engineering.
+    
 
+14. DevSecOps & Secure CI/CD Engineering
 
-## XI. Risk & Legal Considerations
-- Offensive services require strict legal authorization, contracts with clear Rules of Engagement, and insurance coverage.
-- Ensure export controls, data-sovereignty, and privacy laws are respected; establish Clearances/SCIF arrangements for classified work.
-- Maintain strict OPSEC, artifact provenance, and destroy/return policies for sensitive artifacts.
+- Description: Integrate security into software development and deployment workflows through automated testing, dependency analysis, secrets management, and build security.
+    
+- Deliverables: CI/CD pipelines, SAST/DAST integration, software composition analysis, security gates, SBOM generation, build documentation.
+    
+- Customers: Software development teams, SaaS providers, organizations maintaining custom applications.
+    
+- Pricing model: Initial implementation plus per-project or recurring maintenance.
+    
 
+15. Application Security Engineering
 
-##  XII. Suggested Starter Packages (example quick offerings)
-- "Starter Secure Build" — secure CI/CD + SBOM + 3 months support.
-- "Blue Team Launchpad" — 30-day SOC deployment + 90-day MDR trial.
-- "Red Team Baseline" — 1-week adversary emulation + remediation roadmap.
-- "CTI Lite" — weekly IOC feed + quarterly TTP brief.
+- Description: Integrate application security throughout the software development lifecycle, including source-code reviews, threat modeling, vulnerability remediation, and security testing.
+    
+- Deliverables: Secure coding standards, threat models, code review reports, remediation patches, security test automation.
+    
+- Customers: Software companies, development teams, organizations maintaining legacy applications.
+    
+- Pricing model: Per-application assessment or ongoing engineering retainer.
+    
 
-Conclusion
-This portfolio balances high-margin advisory & engineering work with recurring managed offerings to create stable revenue while preserving operational capability and credibility in cyber/intel markets. Adjust granularity, compliance posture, and staffing plans depending on whether you pursue government/cleared contracts or private sector customers.
-```
+16. Software Automation & Custom Tool Development
+
+- Description: Develop custom scripts, command-line applications, integrations, and automation tools for infrastructure management, cybersecurity operations, and business workflows.
+    
+- Deliverables: Source code, automation utilities, deployment scripts, API integrations, technical documentation.
+    
+- Customers: IT departments, cybersecurity teams, small businesses, technology companies.
+    
+- Pricing model: Fixed-fee development or hourly engineering.
+    
+
+## IV. Open-Source Infrastructure & Systems Engineering
+
+17. Custom Linux Infrastructure Engineering
+
+- Description: Design, configure, harden, and deploy Linux-based infrastructure using Debian, Ubuntu, Fedora, Arch, and other open-source platforms.
+    
+- Deliverables: Operating system configurations, hardened system images, deployment automation, network configurations, maintenance documentation.
+    
+- Customers: Small businesses, technology startups, research environments, independent developers.
+    
+- Pricing model: Deployment project plus ongoing infrastructure support.
+    
+
+18. Private Cloud & Self-Hosted Infrastructure
+
+- Description: Engineer private infrastructure using open-source platforms for file storage, collaboration, application hosting, identity management, and internal business services.
+    
+- Deliverables: Private infrastructure deployment, service configuration, authentication integration, backup architecture, monitoring.
+    
+- Customers: Privacy-conscious organizations, SMBs, independent professionals, research teams.
+    
+- Pricing model: Fixed-fee deployment and monthly support.
+    
+
+19. Network Infrastructure & Secure Connectivity
+
+- Description: Design and deploy secure networks, VLAN segmentation, VPN infrastructure, DNS services, firewall policies, reverse proxies, and remote-access systems.
+    
+- Deliverables: Network diagrams, firewall configurations, VPN deployment, DNS architecture, security policies, operational documentation.
+    
+- Customers: SMBs, remote teams, small enterprises, distributed organizations.
+    
+- Pricing model: Project-based infrastructure implementation.
+    
+
+20. Open-Source Security Platform Deployment
+
+- Description: Deploy and integrate open-source cybersecurity platforms to provide organizations with affordable alternatives to proprietary security products.
+    
+- Deliverables: Integrated security platform, configuration documentation, monitoring dashboard, alerting policies, operational procedures.
+    
+- Customers: SMBs, technology companies, educational organizations, independent security teams.
+    
+- Pricing model: Deployment fee plus support subscription.
+    
+
+## V. Embedded Systems, IoT & Edge Computing
+
+21. Raspberry Pi & Single-Board Computer Engineering
+
+- Description: Design and deploy custom computing platforms using Raspberry Pi, ARM-based single-board computers, and embedded Linux environments.
+    
+- Deliverables: Hardware configuration, operating system image, software stack, network configuration, deployment documentation.
+    
+- Customers: Research organizations, small businesses, field engineering teams, technology startups.
+    
+- Pricing model: Hardware and engineering costs plus project fee.
+    
+
+22. Custom IoT Systems & Gateway Development
+
+- Description: Design IoT architectures and develop hardware-connected applications for sensor integration, telemetry collection, remote monitoring, and device management.
+    
+- Deliverables: IoT architecture, gateway software, device integration, MQTT infrastructure, monitoring dashboard, source code.
+    
+- Customers: Industrial businesses, facilities management, environmental monitoring, research organizations.
+    
+- Pricing model: Prototype development followed by deployment and maintenance.
+    
+
+23. Secure Embedded Linux & Firmware Engineering
+
+- Description: Develop and harden embedded Linux systems, firmware environments, device authentication, secure update mechanisms, and hardware/software interfaces.
+    
+- Deliverables: Embedded system image, firmware configuration, security architecture, update procedures, technical documentation.
+    
+- Customers: IoT manufacturers, hardware startups, industrial technology providers.
+    
+- Pricing model: Milestone-based engineering and maintenance.
+    
+
+24. Edge Computing & Distributed Systems
+
+- Description: Deploy distributed computing architectures using SBCs and lightweight Linux infrastructure to process, store, and transmit data locally.
+    
+- Deliverables: Edge computing nodes, data processing services, synchronization mechanisms, network architecture, monitoring.
+    
+- Customers: Industrial operations, remote facilities, research environments, organizations with limited connectivity.
+    
+- Pricing model: Engineering project plus deployment support.
+    
+
+25. IoT Security & Device Hardening
+
+- Description: Assess and improve the security of connected devices, embedded applications, communication protocols, device authentication, and IoT network architecture.
+    
+- Deliverables: IoT threat model, device security assessment, firmware findings, hardened configuration, remediation recommendations.
+    
+- Customers: IoT manufacturers, industrial businesses, hardware developers.
+    
+- Pricing model: Per-device-family assessment or engineering engagement.
+    
+
+26. Custom Field Computing & Portable Infrastructure
+
+- Description: Develop portable, ruggedized computing systems for field operations, offline computing, network monitoring, data collection, and secure communications.
+    
+- Deliverables: Custom hardware platform, portable Linux environment, application stack, peripheral integration, deployment documentation.
+    
+- Customers: Field engineering teams, research organizations, infrastructure operators, specialized technical users.
+    
+- Pricing model: Custom hardware build plus engineering and support.
+    
+
+## VI. Security Research, Automation & Custom Products
+
+27. Custom Cybersecurity Tool Development
+
+- Description: Develop purpose-built security utilities for network discovery, vulnerability assessment, system auditing, monitoring, and security automation.
+    
+- Deliverables: Custom applications, source code, testing documentation, installation packages, user documentation.
+    
+- Customers: IT departments, security consultants, SMBs, research organizations.
+    
+- Pricing model: Development project or software licensing where applicable.
+    
+
+28. Open-Source Security Integration
+
+- Description: Integrate multiple open-source security technologies into unified solutions for vulnerability management, network defense, monitoring, and endpoint protection.
+    
+- Deliverables: Integrated platform, deployment scripts, configuration files, dashboards, documentation.
+    
+- Customers: Organizations seeking open-source alternatives to commercial security platforms.
+    
+- Pricing model: Implementation fee plus recurring support.
+    
+
+29. Security Automation & Continuous Assessment
+
+- Description: Develop automated security assessment workflows that periodically evaluate network assets, configurations, vulnerabilities, and security controls.
+    
+- Deliverables: Automated assessment scripts, reporting infrastructure, monitoring dashboards, remediation tracking.
+    
+- Customers: SMBs, IT departments, organizations with limited security personnel.
+    
+- Pricing model: Initial deployment plus recurring subscription.
+    
+
+30. Custom Open-Source Hardware/Software Products
+
+- Description: Research, design, and develop integrated hardware/software products combining SBCs, IoT devices, Linux infrastructure, and custom applications.
+    
+- Deliverables: Working prototype, hardware bill of materials, software repository, deployment image, technical documentation.
+    
+- Customers: Technology startups, industrial organizations, research groups, specialized engineering teams.
+    
+- Pricing model: R&D milestones, prototype fees, licensing, or product sales.
+    
+
