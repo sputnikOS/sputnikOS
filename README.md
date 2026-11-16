@@ -2,7 +2,7 @@
 <div align="center">
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+SputikOS;%3E+Zero-Trust+%3A%3A+Open-Source;)](https://github.com/sputnikOS)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=72&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+SputikOS;%3E+Zero-Trust+%3A%3A+Open-Source;)](https://github.com/sputnikOS)
 
  `>> “Privacy is a right. Security is a responsibility. Knowledge is our greatest defense. Open source is our foundation." <<` 
 
@@ -21,8 +21,9 @@
 
 [SANS Blue Team Wiki](https://github.com/sans-blue-team/blue-team-wiki/)
 
-## Toolkit
+
 [Kali Tools List](https://www.kali.org/tools/)
+
 ### OpSec and Privacy 
 [IronFox Browser](https://github.com/ironfox-oss/IronFox)
 ### Radio & Satellite
@@ -40,8 +41,7 @@
 [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
 
-
-  ## 🚀 Penetration Testing Toolkit
+  ## 🚀 Penetration Testing Environment
 
   <details>
   <summary><strong>Click to expand toolkit list</strong></summary>
