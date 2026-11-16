@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Mission_Statement-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Knowledge Without Borders"/>
 </a>
 
-## Cybersecurity Learning Path
+## Frameworks 
 ### 
 [MITRE Framework](https://attack.mitre.org/)
 [MITRE Training](https://attack.mitre.org/resources/learn-more-about-attack/training/)
@@ -37,22 +37,19 @@
 
 
 [Kali Tools List](https://www.kali.org/tools/)
-
-### OpSec and Privacy 
-[IronFox Browser](https://github.com/ironfox-oss/IronFox)
-### Radio & Satellite
-[GNU Radio](https://wiki.gnuradio.org/)
-
-[WebSDR](http://websdr.org/)
-
-[ArcGis](https://www.arcGis.com)
-
-#### Resources
 [Python](https://github.com/vinta/awesome-python?tab=readme-ov-file#distributed-computing)
 
 [Kali Linux](https://github.com/0xsyr0/OSCP)
 
 [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+
+
+### Signals Intelligence (SIGINT)
+[GNU Radio](https://wiki.gnuradio.org/)
+
+[WebSDR](http://websdr.org/)
+
+[ArcGis](https://www.arcGis.com)
 
 
   ## 🚀 Penetration Testing Environment
