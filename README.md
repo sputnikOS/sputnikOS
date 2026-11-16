@@ -36,13 +36,15 @@
 [SANS Blue Team Wiki](https://github.com/sans-blue-team/blue-team-wiki/)
 
 
-[Kali Tools List](https://www.kali.org/tools/)
+[Tools List](https://www.kali.org/tools/)
 [Python](https://github.com/vinta/awesome-python?tab=readme-ov-file#distributed-computing)
 
 [Kali Linux](https://github.com/0xsyr0/OSCP)
 
 [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 
+### Hardware 
+[P4WN Aloha](https://github.com/sputnikOS/P4wnP1_aloa)
 
 ### Signals Intelligence (SIGINT)
 [GNU Radio](https://wiki.gnuradio.org/)
