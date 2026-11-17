@@ -253,7 +253,7 @@ A modular environment for security research, penetration testing, and defensive 
 
 ---
 
-## 08 / PROJECT DIRECTION
+## 08 / CAPABILITIES 
 
 Our development priorities center around five interconnected areas:
 
