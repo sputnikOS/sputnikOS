@@ -2,12 +2,19 @@
 <div align="center">
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=72&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+SputikOS;%3E+Zero-Trust+%3A%3A+Open-Source;)](https://github.com/sputnikOS)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code&weight=700&size=72&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+SputikOS;%3E+Zero-Trust+%3A%3A+Open-Source;)](https://github.com/sputnikOS)
 
  `>> “Privacy is a right. Security is a responsibility. Knowledge is our greatest defense. Open source is our foundation." <<` 
 
 
 
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![RTL SDR](https://img.shields.io/badge/RTL--SDR-444444?style=flat-square)
+![GNU Radio](https://img.shields.io/badge/GNU_Radio-FF6600?style=flat-square)
+![Meshtastic](https://img.shields.io/badge/Meshtastic-333333?style=flat-square)
+![ATAK](https://img.shields.io/badge/ATAK-263238?style=flat-square)
 
 
 
