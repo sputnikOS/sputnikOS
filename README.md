@@ -9,13 +9,7 @@
 
 
 
-![GitHub Created At](https://img.shields.io/github/created-at/sputnikOS/sputnikOS?style=for-the-badge)
- 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/sputnikOS/sputnikOS?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/sputnikOS/sputnikOS?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/sputnikOS/sputnikOS?style=for-the-badge)
 
-![License](https://img.shields.io/badge/GPL--3.0-red?style=for-the-badge)
 
 <br/>
 
@@ -23,6 +17,9 @@
 <a href="https://github.com/sputnikOS/sputnikOS/blob/main/Mission%20Statement.md">
   <img src="https://img.shields.io/badge/Mission_Statement-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Knowledge Without Borders"/>
 </a>
+
+
+
 
 ## Frameworks 
 ### 
