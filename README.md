@@ -25,18 +25,18 @@
   <img src="https://img.shields.io/badge/Mission_Statement-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Knowledge Without Borders"/>
 </a>
 
-#### Audit your network
+## Audit your network
 `sudo dnf install nmap wireshark-cli tcpdump`
 
 
-#### scan
+###### scan
 `Ip route && ip neigh`
 
 `sudo nmap -sn 10.0.0.0/24`
 `sudo nmap -sT -sV --top-ports 100 10.0.0.1`
 `sudo nmap -sT -p- --reason 10.0.0.1`
 `nmap -sT --top-ports 100 PUBLIC_IP`
-#### monitor 
+###### monitor 
 `sudo wireshark`
 `sudo arp-scan --localnet`
 `sudo tcpdump -i any -nn`
