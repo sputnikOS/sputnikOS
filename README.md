@@ -26,11 +26,8 @@
 ![Meshtastic](https://img.shields.io/badge/Meshtastic-333333?style=flat-square)
 ![ATAK](https://img.shields.io/badge/ATAK-263238?style=flat-square)
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/sputnikOS/sputnikOS/blob/main/Mission%20Statement.md">
-<img src="https://img.shields.io/badge/EXPLORE%20OUR%20MISSION-00FF41?style=for-the-badge&logo=opensourceinitiative&logoColor=black" alt="Explore Our Mission"/>
-</a>
 
 </div>
 
@@ -56,7 +53,7 @@ Our work explores the intersection of Linux, open-source intelligence, network d
 
 ---
 
-## 03 / NETWORK DEFENSE
+## 03 / NETWORK AUDIT
 
 Practical Linux commands for auditing and monitoring networks you own or are authorized to assess.
 
