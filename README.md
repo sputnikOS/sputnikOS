@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=800&height=70&lines=%3E+SputikOS;%3E+Open+Source+%7C+Digital+Sovereignty;%3E+Security+Without+Borders" alt="SputnikOS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=800&height=70&lines=%3E+SputikOS;%3E+Security+Without+Borders" alt="SputnikOS"/>
 
-**OPEN SOURCE OPERATIONS · CYBERSECURITY · DIGITAL SOVEREIGNTY**
+**ZERO TRUST • OPEN-SOURCE**
 
 <br/>
 
